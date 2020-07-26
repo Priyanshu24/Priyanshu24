@@ -20,8 +20,8 @@ Others are listed below:
 ![Ubuntu](https://img.shields.io/badge/ubuntu-20.04-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white) ![VSCode](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 
-![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=Priyanshu24&count_private=true&show_icons=true&)
 
+![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=Priyanshu24&count_private=true&show_icons=true&) 
 <!--START_SECTION:waka-->
 ```text
 JavaScript   4 hrs 11 mins   ██████████████████░░░░░░░   72.19 % 
