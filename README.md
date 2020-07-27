@@ -24,9 +24,10 @@ Others are listed below:
 ![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=Priyanshu24&count_private=true&show_icons=true&) 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 11 mins   ██████████████████░░░░░░░   72.19 % 
-Markdown     1 hr 34 mins    ██████░░░░░░░░░░░░░░░░░░░   27.11 % 
-HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+JavaScript   4 hrs 11 mins   ██████████████░░░░░░░░░░░   56.78 % 
+Markdown     3 hrs           ██████████░░░░░░░░░░░░░░░   40.79 % 
+YAML         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 <!--END_SECTION:waka-->
 
