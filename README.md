@@ -5,7 +5,6 @@
 
 #### <img src="https://media.giphy.com/media/3oEjHUtLLUAbdY1C6s/giphy.gif" width="100" /> A bit about me...
 
-
 ```javascript
     const aboutMe = {
         name: "Priyanshu Gupta",
@@ -42,4 +41,13 @@
 ![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=Priyanshu24&count_private=true&show_icons=true&)
 
 <!--START_SECTION:waka-->
+<<<<<<< HEAD
+=======
+```text
+JavaScript   4 hrs 11 mins   ██████████████░░░░░░░░░░░   56.78 % 
+Markdown     3 hrs           ██████████░░░░░░░░░░░░░░░   40.79 % 
+YAML         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+```
+>>>>>>> f3aa5c11016f0ddac141aa0bb49610cd59d75d5f
 <!--END_SECTION:waka-->
